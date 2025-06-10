@@ -1,0 +1,15 @@
+artifact_uri: file:///home/michael/Documents/Posture_Detection/notebooks/mlruns/349185268683935009/a50802dbda0a45fbbf00d53b5990570e/artifacts
+end_time: 1749552246203
+entry_point_name: ''
+experiment_id: '349185268683935009'
+lifecycle_stage: active
+run_id: a50802dbda0a45fbbf00d53b5990570e
+run_name: xgboost_Neck
+run_uuid: a50802dbda0a45fbbf00d53b5990570e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749552243938
+status: 3
+tags: []
+user_id: michael

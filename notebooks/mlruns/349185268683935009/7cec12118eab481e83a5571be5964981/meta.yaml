@@ -1,0 +1,15 @@
+artifact_uri: file:///home/michael/Documents/Posture_Detection/notebooks/mlruns/349185268683935009/7cec12118eab481e83a5571be5964981/artifacts
+end_time: 1749552349118
+entry_point_name: ''
+experiment_id: '349185268683935009'
+lifecycle_stage: active
+run_id: 7cec12118eab481e83a5571be5964981
+run_name: xgboost_Thoraric_Spine
+run_uuid: 7cec12118eab481e83a5571be5964981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749552346847
+status: 3
+tags: []
+user_id: michael

@@ -1,0 +1,6 @@
+artifact_location: file:///home/michael/Documents/Posture_Detection/notebooks/mlruns/349185268683935009
+creation_time: 1749552106086
+experiment_id: '349185268683935009'
+last_update_time: 1749552106086
+lifecycle_stage: active
+name: XGBoost_Basemodel
